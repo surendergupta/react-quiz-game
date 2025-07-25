@@ -4,6 +4,12 @@ A responsive and interactive quiz game built with **React**, featuring a real-ti
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Play Now on Vercel](https://react-quiz-game-zeta.vercel.app/)
+
+---
+
 ## 📌 Features
 
 - ⏲️ **Timer per question** — 30 seconds for each
