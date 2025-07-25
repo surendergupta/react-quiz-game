@@ -1,0 +1,22 @@
+.question-container
+{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    border: 2px dotted #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-success {
+  color: green !important;
+  font-weight: bold;
+}
+
+.text-danger {
+  color: red !important;
+  font-weight: bold;
+}

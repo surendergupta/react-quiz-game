@@ -1,0 +1,18 @@
+.review-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.review-question h5 {
+  font-weight: 600;
+}
+
+.list-group-item-success {
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.list-group-item-danger {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+}
