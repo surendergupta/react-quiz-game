@@ -105,6 +105,19 @@ At the end of the quiz, you can review:
 
 ---
 
+## 📊 Score Summary
+At the end of the quiz, you can review:
+- 📊 Total Questions, Attempted, Correct, and Wrong
+
+---
+
+## 🌐 Screenshots
+
+![Screenshot Quiz Question](./public/home.png)
+![Screenshot Quiz Complete](./public/quiz-complete.png)
+![Screenshot Quiz Review](./public/review-quiz.png)
+---
+
 ## 👨‍💻 Author
 Surender Gupta
 - GitHub: @surendergupta
